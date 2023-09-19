@@ -13,5 +13,12 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
     print("commit1")
+    print("commit2")
+    print("commit3")
+    print("commit4")
+    print("commit5")
+    print("commit6")
+    print("commit7")
+    print("commit8")
 
 # 访问 https://www.jetbrains.com/help/pycharm/ 获取 PyCharm 帮助
